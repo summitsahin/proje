@@ -1,1 +1,2 @@
 print("Abuyzedr")
+print("allahuekber")
